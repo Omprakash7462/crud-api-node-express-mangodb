@@ -29,12 +29,6 @@ This project serves as a starting point for building scalable backend APIs with 
 
 ---
 
-## 📁 Folder Structure
-
-
-
----
-
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the repository
@@ -47,5 +41,3 @@ npm install
 npm run dev
 
 npm start
-
-
